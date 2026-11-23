@@ -29,6 +29,9 @@ To transform sales data into meaningful insights through interactive visualizati
 
 Author
 
-
 Amaal ..
+
+## Dashboard Preview
+
+![Sales Performance Dashboard](Sales-Performance-Dashboard.png)
 
